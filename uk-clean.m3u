@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four UK HD
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One (720p)
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General" http-referrer="https://cookiewebplay.xyz/",BBC One East (1080p)
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium356/index.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@SouthWestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One South West HD (720p)
+https://stream.nexyl.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk@YorkshireLincolnshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One Yorkshire & Lincolnshire (1080p)
+http://92.114.85.72:8000/play/a0mp
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="General",BBC Scotland (1080p)
+http://92.114.85.72:8000/play/a0mf
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="General",BBC Three
+https://x.canlitvapp.com/u-bbc3/index.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="General",BBC Three HD (720p)
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two
+https://x.canlitvapp.com/u-bbc2/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD (720p)
+https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies
+https://x.canlitvapp.com/u-cbeebies/index.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4
+https://x.canlitvapp.com/u-channel-4/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5
+https://x.canlitvapp.com/u-channel-5/index.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="Entertainment",E4
+https://x.canlitvapp.com/u-e4/index.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATmovies.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="Movies",GREAT! movies (1080p)
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATmystery.uk@SD" tvg-logo="https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png" group-title="Movies",GREAT! Mystery (1080p)
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="GREATromance.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="Movies",GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2
+https://x.canlitvapp.com/u-itv2/index.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",ITV3
+https://x.canlitvapp.com/u-itv3/index.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="General",ITV4 (576p)
+https://x.canlitvapp.com/u-itv4/index.m3u8
+#EXTINF:-1 tvg-id="Pop.uk" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Undefined",Pop (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-logo="https://i.imgur.com/S1zoIp7.png" group-title="Undefined",Talking Pictures TV (576p)
+http://92.114.85.72:8000/play/a0la
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Undefined",TalkTV (1080p)
+https://amg00738-newsuk-amg00738c1-lg-gb-3426.playouts.now.amagi.tv/playlist/amg00738-newscorpukandirelandlimited-talktv-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="Thats70s.uk" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Music",That's 70s (576p)
+http://92.114.85.72:8000/play/a0lc
+#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-logo="https://i.imgur.com/rmdfcyG.png" group-title="Undefined",That's TV (576p)
+http://92.114.85.72:8000/play/a0lb
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="Kids",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="TinyPop.uk@Plus1" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="Kids",Tiny Pop +1 (576p)
+http://92.114.85.72:8000/play/a08p
+#EXTINF:-1 tvg-id="UW.uk" tvg-logo="https://i.imgur.com/puBkpGj.png" group-title="Undefined",U&W
+http://92.114.85.72:8000/play/a0bj
+#EXTINF:-1 tvg-id="UYesterday.uk" tvg-logo="https://i.imgur.com/r3pqSHl.png" group-title="Undefined",U&Yesterday
+http://92.114.85.72:8000/play/aOb3
