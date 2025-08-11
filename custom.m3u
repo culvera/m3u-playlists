@@ -24,8 +24,6 @@ https://live-bauerie.sharp-stream.com/SUN
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-name="Euronews Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews Ⓨ
 https://www.youtube.com/euronews/live
-#EXTINF:-1 tvg-name="Africanews Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="News",Africanews Ⓨ
-https://www.youtube.com/africanews/live
 #EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News",France 24 Ⓨ
 https://www.youtube.com/france24english/live
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News",DW
@@ -186,8 +184,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yo
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="Channel 4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 Ⓢ
 http://176.65.146.105:8011/play/a07w/index.m3u8
-#EXTINF:-1 tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Ⓖ
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-name="BBC Alba Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png" tvg-id="BBCAlba.uk" group-title="UK",BBC Alba Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="BBC Four Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png" tvg-id="BBCFour.uk" group-title="UK",BBC Four Ⓖ
@@ -198,30 +194,19 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotla
 http://176.65.146.105:8011/play/E4HD/index.m3u8
 #EXTINF:-1 tvg-name="Film4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/805px-Film4_logo_2018.svg.png" tvg-id="Film4.uk" group-title="UK",Film4 Ⓢ
 http://176.65.146.105:8011/play/FILM4SD/index.m3u8
-#EXTINF:-1 tvg-name="QVC UK Ⓢ" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVCUK.uk" group-title="UK",QVC UK Ⓢ
-https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
-#EXTINF:-1 tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-id="TJC.uk" group-title="UK",TJC
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-name="BBC Three Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png" tvg-id="BBCThree.uk" group-title="UK",BBC Three Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="GemsTV Ⓢ" tvg-logo="https://i.imgur.com/IR2sTag.png" tvg-id="GemsTV.uk" group-title="UK",GemsTV Ⓢ
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-#EXTINF:-1 tvg-name="4seven Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/568px-4seven_logo_2018.svg.png" tvg-id="4seven.uk" group-title="UK",4seven Ⓢ
-http://176.65.146.170:8013/play/a06p/index.m3u8
-#EXTINF:-1 tvg-name="Ideal World" tvg-logo="https://i.imgur.com/su6GH7i.png" tvg-id="IdealWorldTV.uk" group-title="UK",Ideal World
-https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Blaze Ⓖ" tvg-logo="https://i.imgur.com/6UcPWP9.png" tvg-id="Blaze.uk" group-title="UK",Blaze Ⓖ
 https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-name="Jewellery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png" tvg-id="JewelleryMaker.uk" group-title="UK",Jewellery Maker
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Hobby Maker" tvg-logo="https://i.imgur.com/VWHp5Tl.png" tvg-id="HobbyMaker.uk" group-title="UK",Hobby Maker
-https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="EarthXTV" tvg-logo="https://i.imgur.com/AvJRFKf.png" tvg-id="EarthXUK.uk" group-title="UK",EarthXTV
-https://ov.ottera.tv/live/master.m3u8?channel=earth_et
+
+
+
 #EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" tvg-id="PBSAmerica.uk" group-title="UK",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Create & Craft" tvg-logo="https://i.imgur.com/n65sk4L.png" tvg-id="CreateandCraft.uk" group-title="UK",Create & Craft
-https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8
+
 #EXTINF:-1 tvg-name="CBBC Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/640px-CBBC_%282023%29.svg.png" tvg-id="CBBC.uk" group-title="UK",CBBC Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CBeebies Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png" tvg-id="CBeebies.uk" group-title="UK",CBeebies Ⓖ
@@ -248,22 +233,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 tvg-name="SportyStuff TV" tvg-logo="https://i.imgur.com/uIgxHSY.png" tvg-id="SportyStuffTV.uk" group-title="UK",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 tvg-name="4Music Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" tvg-id="4Music.uk" group-title="UK",4Music Ⓖ
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 tvg-name="The Box Ⓖ" tvg-logo="https://i.imgur.com/e1Cf4Li.png" tvg-id="TheBoxUK.uk" group-title="UK",The Box Ⓖ
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
-#EXTINF:-1 tvg-name="KISS Ⓖ" tvg-logo="https://i.imgur.com/47ZkVhO.png" tvg-id="KissTVUK.uk" group-title="UK",KISS Ⓖ
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
-#EXTINF:-1 tvg-name="Magic Ⓖ" tvg-logo="https://i.imgur.com/e1Cf4Li.png" tvg-id="Magic.uk" group-title="UK",Magic Ⓖ
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878
-#EXTINF:-1 tvg-name="Kerrang!" tvg-logo="https://i.imgur.com/3mwf8Uq.png" tvg-id="Kerrang.uk" group-title="UK",Kerrang!
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:-1 tvg-name="QVC Beauty Ⓢ" tvg-logo="https://i.imgur.com/ZBHtqk1.png" tvg-id="QVCBeautyUK.uk" group-title="UK",QVC Beauty Ⓢ
-https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
-#EXTINF:-1 tvg-name="QVC Extra Ⓢ" tvg-logo="https://i.imgur.com/TIe5T9Z.png" tvg-id="QVCExtraUK.uk" group-title="UK",QVC Extra Ⓢ
-https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8
-#EXTINF:-1 tvg-name="QVC Style Ⓢ" tvg-logo="https://i.imgur.com/6HZlLL3.png" tvg-id="QVCStyleUK.uk" group-title="UK",QVC Style Ⓢ
-https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
 #EXTINF:-1 tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-id="Now70s.uk" group-title="UK",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Now 80s" tvg-logo="https://i.imgur.com/8paz37m.png" tvg-id="Now80s.uk" group-title="UK",Now 80s
@@ -290,7 +259,5 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bb
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-name="BBC Radio 5 Sports Extra" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" tvg-id="BBCRadio5SportsExtra.uk" group-title="UK",BBC Radio 5 Sports Extra
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" group-title="UK",BBC Asian Network
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" tvg-id="BBCRadioWorldService.uk" group-title="UK",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
